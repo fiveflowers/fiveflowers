@@ -10,7 +10,6 @@
 
 - 🧩 Majors: Computer Vision, Machine Learning, Artificial Intelligence
 
-- 📬 How to reach me: [yifer.me@foxmail.com](mailto:yifer.me@foxmail.com)
 
 <!--
 **fiveflowers/fiveflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

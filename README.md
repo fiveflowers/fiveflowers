@@ -1,4 +1,4 @@
-### Yoo, I'm Yifer Huang 👋
+### Yoo, I'm Yifeng Huang 👋
 
 ---
 

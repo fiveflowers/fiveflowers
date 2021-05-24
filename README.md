@@ -2,15 +2,11 @@
 
 ---
 
-- 🎨 Master student in [**D**igital media **C**omputing & **D**esign Lab](http://www.dcd.zju.edu.cn/) (**DCD**)
-
-<!--
-- 💻 **MEng** @ Computer Science in [Zhejiang University](http://www.zju.edu.cn/), ~
--->
-
-- 🛩 **BSc** @ Aircraft Power Engineering in [Civil Aviation University of China](https://www.cauc.edu.cn/zhv3/), 2018
+- 💻 Master student in [**D**igital media **C**omputing & **D**esign Lab](http://www.dcd.zju.edu.cn/) (**DCD**)
 
 - 🧩 Majors: Computer Vision, Machine Learning, Artificial Intelligence
+
+- 🛩 **BSc** @ Aircraft Power Engineering in [Civil Aviation University of China](https://www.cauc.edu.cn/zhv3/), 2018
 
 <!--
 **fiveflowers/fiveflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

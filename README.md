@@ -4,7 +4,7 @@
 
 - 💻 Master student @ Zhejiang University
 
-- 🧩 Majors: Computer Vision, Multimodal 
+- 🧩 Majors: Computer Vision, Multimodal, Machine Learning
 
 
 <!--

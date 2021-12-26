@@ -1,12 +1,11 @@
-### Yoo, I'm Yifeng Huang 👋
+### Yoo, I'm Yifeng Huang (黄一峰) 👋
 
 ---
 
-- 💻 Master student in [**D**igital media **C**omputing & **D**esign Lab](http://www.dcd.zju.edu.cn/) (**DCD**)
+- 💻 Master student @ Zhejiang University
 
-- 🧩 Majors: Computer Vision, Machine Learning, Artificial Intelligence
+- 🧩 Majors: Computer Vision, Multimodal 
 
-- 🛩 **BSc** @ Aircraft Power Engineering in [Civil Aviation University of China](https://www.cauc.edu.cn/zhv3/), 2018
 
 <!--
 **fiveflowers/fiveflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

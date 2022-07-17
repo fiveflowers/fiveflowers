@@ -2,9 +2,9 @@
 
 ---
 
-- 💻 Master student @ Zhejiang University
+- 💻 Algorithm Engineer @ Alibaba Group (2022.07 - )
 
-- 🧩 Majors: Computer Vision, Multimodality, Machine Learning
+- 🎓 Master of Engineering @ Zhejiang University (2022.06)
 
 
 <!--
